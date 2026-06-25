@@ -1,0 +1,9 @@
+Model,Metric,Point_Estimate,CI_Lower,CI_Upper
+Gradient Boosting,Brier_Score,0.184423,0.166658,0.204347
+Gradient Boosting,ROC_AUC,0.795206,0.750078,0.838492
+Kalman Filter,Brier_Score,0.191352,0.178106,0.205017
+Kalman Filter,ROC_AUC,0.778327,0.741055,0.812905
+Logistic Regression,Brier_Score,0.192683,0.178716,0.207105
+Logistic Regression,ROC_AUC,0.77533,0.732626,0.813839
+Random Forest,Brier_Score,0.186238,0.169306,0.20051
+Random Forest,ROC_AUC,0.790493,0.756962,0.832491

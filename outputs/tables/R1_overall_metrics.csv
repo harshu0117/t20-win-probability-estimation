@@ -1,0 +1,5 @@
+Model,Brier_Score,Log_Loss,ROC_AUC
+Gradient Boosting,0.184423,0.542512,0.795206
+Random Forest,0.186238,0.547446,0.790493
+Kalman Filter,0.191352,0.558249,0.778327
+Logistic Regression,0.192683,0.561229,0.77533

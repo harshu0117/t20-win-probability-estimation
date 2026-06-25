@@ -1,0 +1,14 @@
+,Strength (Ŝ),Momentum (M̂),Pressure (P̂)
+runs_last_6_balls,0.086367,1.257203,-0.243855
+runs_last_12_balls,0.262418,1.567142,-0.180132
+runs_last_24_balls,0.443626,1.198405,0.010286
+wickets_last_6_balls,1.354222,-0.573959,0.807772
+wickets_last_12_balls,1.759027,-0.817007,1.166964
+wickets_last_24_balls,1.231407,-0.547879,0.942235
+dots_last_6_balls,-0.592041,-0.280168,0.976385
+dots_last_12_balls,-0.889004,-0.113656,1.281025
+dots_last_24_balls,-0.756201,0.225884,1.013159
+boundaries_last_6_balls,-0.123641,1.154883,-0.066042
+boundaries_last_12_balls,-0.045051,1.522641,0.007538
+boundaries_last_24_balls,0.104292,1.245525,0.114431
+current_run_rate,0.318479,0.742566,-0.164048

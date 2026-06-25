@@ -1,0 +1,18 @@
+# Core Data & ML
+numpy
+pandas
+scikit-learn
+scipy
+xgboost
+shap
+
+# Visualization
+matplotlib
+seaborn
+tqdm
+
+# Utilities
+PyPDF2
+nbformat
+ipykernel
+pickle5; python_version < '3.8'

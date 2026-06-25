@@ -1,0 +1,21 @@
+Venue,Model,Brier,AUC,N_matches
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gradient Boosting,0.217231,0.714255,21
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kalman Filter,0.214807,0.706796,21
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Logistic Regression,0.216708,0.700026,21
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Random Forest,0.21667,0.714679,21
+Eden Gardens,Gradient Boosting,0.209641,0.740672,20
+Eden Gardens,Kalman Filter,0.214115,0.713854,20
+Eden Gardens,Logistic Regression,0.212705,0.716027,20
+Eden Gardens,Random Forest,0.207164,0.740743,20
+MA Chidambaram Stadium,Gradient Boosting,0.156998,0.866069,24
+MA Chidambaram Stadium,Kalman Filter,0.171991,0.827318,24
+MA Chidambaram Stadium,Logistic Regression,0.173233,0.822667,24
+MA Chidambaram Stadium,Random Forest,0.158677,0.862268,24
+Narendra Modi Stadium,Gradient Boosting,0.188746,0.787731,26
+Narendra Modi Stadium,Kalman Filter,0.195498,0.771993,26
+Narendra Modi Stadium,Logistic Regression,0.196841,0.768319,26
+Narendra Modi Stadium,Random Forest,0.191183,0.780011,26
+Wankhede Stadium,Gradient Boosting,0.169345,0.821758,21
+Wankhede Stadium,Kalman Filter,0.176798,0.806566,21
+Wankhede Stadium,Logistic Regression,0.178402,0.805261,21
+Wankhede Stadium,Random Forest,0.17124,0.818595,21

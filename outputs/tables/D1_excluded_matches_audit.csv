@@ -1,0 +1,9 @@
+match_id,match_date,season,year,city,venue,team_a,team_b,toss_winner,toss_decision,winner,result,eliminator,is_dls,is_abandoned,is_reduced,has_super_over,temporal_weight,exclusion_reason
+501265,2011-05-21,2011,2011,Delhi,Arun Jaitley Stadium,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,,no result,,False,True,False,False,0.5,Abandoned / No Result
+829763,2015-04-29,2015,2015,Bangalore,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,,False,True,False,False,0.6499999999999999,Abandoned / No Result
+829813,2015-05-17,2015,2015,Bangalore,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,,no result,,False,True,False,False,0.6499999999999999,Abandoned / No Result
+1178424,2019-04-30,2019,2019,Bengaluru,M. Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,,False,True,False,False,0.85,Abandoned / No Result
+1359519,2023-05-03,2023,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,,no result,,False,True,False,False,1.0,Abandoned / No Result
+1473481,2025-04-26,2025,2025,Kolkata,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,,no result,,False,True,False,False,1.0,Abandoned / No Result
+1473492,2025-05-05,2025,2025,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,no result,,False,True,False,False,1.0,Abandoned / No Result
+1473495,2025-05-08,2025,2025,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,,no result,,False,True,False,False,1.0,Abandoned / No Result

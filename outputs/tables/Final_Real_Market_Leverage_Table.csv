@@ -1,0 +1,8 @@
+Moment,Mkt,KF,Edge,Action,Bet,PnL,Bankroll
+Start of Chase,0.32,0.922,0.602,No Bet,0.0,0.0,2000.0
+End of Over 6,0.35,0.467,0.117,Bet PBKS,46.61,-46.61,1953.39
+End of Over 11,0.28,0.308,0.028,No Bet,0.0,0.0,1953.39
+End of Over 13,0.22,0.156,-0.064,Bet RCB,24.81,7.0,1960.39
+End of Over 17,0.05,0.073,0.023,No Bet,0.0,0.0,1960.39
+End of Over 19,0.12,0.0,-0.12,Bet RCB,46.96,6.4,1966.79
+Match Over,0.0,0.0,0.0,No Bet,0.0,0.0,1966.79

@@ -1,0 +1,6 @@
+Match Situation,KF Brier,LR Brier,KF Improvement,RF Brier,GB Brier,N (Balls),N (Matches)
+Close matches (≤ 10 runs or ≤ 2 wickets),0.2956,0.2951,-0.2%,0.2682,0.2719,7757,31
+Moderate (11–30 runs or 3–5 wickets),0.2025,0.2041,0.8%,0.1875,0.1864,17844,73
+One-sided (> 30 runs or > 5 wickets),0.1529,0.1546,1.1%,0.1611,0.1572,26216,111
+Death overs (16–20),0.1658,0.1697,2.3%,0.1537,0.1537,11887,213
+Powerplay (1–6),0.2162,0.216,-0.1%,0.2133,0.2114,16132,215

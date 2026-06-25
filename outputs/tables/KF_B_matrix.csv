@@ -1,0 +1,4 @@
+,balls_remaining,wickets_in_hand,run_rate_diff,pressure_index,phase_powerplay,phase_middle,phase_death,required_run_rate
+Strength (Ŝ),-0.006471,-0.02748,-0.013118,0.004599,0.001876,-0.002536,0.001038,0.004599
+Momentum (M̂),-0.02101,0.012074,-0.020164,0.009079,0.010247,-0.010591,0.001399,0.009079
+Pressure (P̂),0.04479,-0.043983,0.009586,-0.005404,0.010586,-0.009702,-0.000178,-0.005404

@@ -1,0 +1,25 @@
+Innings,Phase,Model,Brier,AUC,N_balls
+1,Powerplay (1-6),Kalman Filter,0.241837,0.61707,8056
+1,Powerplay (1-6),Logistic Regression,0.242698,0.617521,8056
+1,Powerplay (1-6),Random Forest,0.240189,0.609002,8056
+1,Powerplay (1-6),Gradient Boosting,0.237954,0.623292,8056
+1,Middle (7-15),Kalman Filter,0.227658,0.680746,13393
+1,Middle (7-15),Logistic Regression,0.230525,0.669996,13393
+1,Middle (7-15),Random Forest,0.219078,0.706345,13393
+1,Middle (7-15),Gradient Boosting,0.216573,0.716103,13393
+1,Death (16-20),Kalman Filter,0.218852,0.701984,5372
+1,Death (16-20),Logistic Regression,0.226297,0.679936,5372
+1,Death (16-20),Random Forest,0.207281,0.74946,5372
+1,Death (16-20),Gradient Boosting,0.207753,0.75417,5372
+2,Powerplay (1-6),Kalman Filter,0.190236,0.7827,8066
+2,Powerplay (1-6),Logistic Regression,0.188907,0.786313,8066
+2,Powerplay (1-6),Random Forest,0.186307,0.801531,8066
+2,Powerplay (1-6),Gradient Boosting,0.184762,0.807235,8066
+2,Middle (7-15),Kalman Filter,0.141226,0.880763,13029
+2,Middle (7-15),Logistic Regression,0.140477,0.882269,13029
+2,Middle (7-15),Random Forest,0.143288,0.875701,13029
+2,Middle (7-15),Gradient Boosting,0.140985,0.880806,13029
+2,Death (16-20),Kalman Filter,0.093252,0.942612,3891
+2,Death (16-20),Logistic Regression,0.094061,0.942089,3891
+2,Death (16-20),Random Forest,0.075869,0.959726,3891
+2,Death (16-20),Gradient Boosting,0.075246,0.960007,3891

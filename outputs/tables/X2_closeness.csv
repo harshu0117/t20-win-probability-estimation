@@ -1,0 +1,9 @@
+Match_Type,Model,Brier,AUC,N_matches
+Close,Kalman Filter,0.222217,0.6932,128
+Close,Logistic Regression,0.222997,0.690976,128
+Close,Random Forest,0.211886,0.7217,128
+Close,Gradient Boosting,0.211312,0.725727,128
+Non-Close,Kalman Filter,0.142796,0.887292,87
+Non-Close,Logistic Regression,0.144992,0.884133,87
+Non-Close,Random Forest,0.145889,0.883912,87
+Non-Close,Gradient Boosting,0.14212,0.889201,87
